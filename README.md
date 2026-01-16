@@ -55,7 +55,7 @@ model TimeEntry {
 ## 🚀 Getting Started
 ### 1. Clone repo  
 ```bash
-git clone https://github.com/<your_repo>/time-tracker.git
+git clone https://github.com/val-suprunovska/time-tracker.git
 cd time-tracker
 ```
 ### 2. Install dependencies
